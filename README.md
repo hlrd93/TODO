@@ -1,4 +1,6 @@
-#TO DO LIST 
-### LISTA PARA HACER COSAS
+#TO DO LIST
+## LISTA PARA HACER COSAS.
 
-## ToDo: es para agregar tareas
+### ToDo: es para agregar tareas.
+
+### Todo: Lista tareas.
